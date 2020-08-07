@@ -3,8 +3,6 @@
 A unit converter app that converts units in 8 categories (Length, Area, Volume, Mass, Time, Digital Storage, Energy, and Currency).
 Currency conversions are entirely mock data and come from `flutter.udacity.com/currency`.
 
-1                          |  2
-:-------------------------:|:-------------------------:
 ![](./unit-converter-app-1.jpg)  |  ![](./unit-converter-app-2.jpg)
 
 ## Getting Started
