@@ -8,9 +8,6 @@ Currency conversions are entirely mock data and come from `flutter.udacity.com/c
 For help getting started with Flutter, view our online
 [documentation](http://flutter.io/).
 
-## Contributing
-See the [Contributing Guidelines for Flutter](https://github.com/flutter/flutter/blob/master/CONTRIBUTING.md)
-
 ## Credits
 
 ### Font
