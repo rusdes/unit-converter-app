@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:1:1-38:12
+MERGED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:1:1-38:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\eb9ab8d49ecb211462a1fa6adea035c5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\1623f4a9b5bb7decdcda99afb16bf34c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\08e91f51fd518fd3face13bd1b8356fe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\9418a5a609de612e889355e0b072b59c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\4e575cae50f0144ba56d0c0ee8398627\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\0cafbbc17d047bb53f77f0fad870cd5c\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\f5013b6b31b51dc7aaee35aa2404f90f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\d78ba7a7c2fb8909fa28d792348cb5fe\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\135651bd2e136f03573c77aadc6d40ef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\b378e45b8049b95113311ca312782b4b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\bff47602af26d1c584e16f72cc453e15\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\146efcb5b377b13e64ca3f444d5d2a81\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\aedf517173d49cec7e0d7712d93e1f67\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:1:1-38:12
+		INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:1:1-38:12
+		INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:10:5-66
+MERGED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:10:5-66
+MERGED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:14:5-37:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\0cafbbc17d047bb53f77f0fad870cd5c\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\0cafbbc17d047bb53f77f0fad870cd5c\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\146efcb5b377b13e64ca3f444d5d2a81\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\146efcb5b377b13e64ca3f444d5d2a81\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\0cafbbc17d047bb53f77f0fad870cd5c\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:16:9-39
+	android:icon
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:17:9-43
+	android:name
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:15:9-57
+activity#com.example.task_12_error.MainActivity
+ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:18:9-36:20
+	android:launchMode
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:20:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:23:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:24:13-55
+	android:configChanges
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:22:13-144
+	android:theme
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:21:13-47
+	android:name
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:19:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:29:13-31:40
+	android:value
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:31:17-37
+	android:name
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:30:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\eb9ab8d49ecb211462a1fa6adea035c5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\eb9ab8d49ecb211462a1fa6adea035c5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\1623f4a9b5bb7decdcda99afb16bf34c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\1623f4a9b5bb7decdcda99afb16bf34c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\08e91f51fd518fd3face13bd1b8356fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\08e91f51fd518fd3face13bd1b8356fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\9418a5a609de612e889355e0b072b59c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\9418a5a609de612e889355e0b072b59c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\4e575cae50f0144ba56d0c0ee8398627\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\4e575cae50f0144ba56d0c0ee8398627\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\0cafbbc17d047bb53f77f0fad870cd5c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\0cafbbc17d047bb53f77f0fad870cd5c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\f5013b6b31b51dc7aaee35aa2404f90f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\f5013b6b31b51dc7aaee35aa2404f90f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\d78ba7a7c2fb8909fa28d792348cb5fe\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\d78ba7a7c2fb8909fa28d792348cb5fe\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\135651bd2e136f03573c77aadc6d40ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\135651bd2e136f03573c77aadc6d40ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\b378e45b8049b95113311ca312782b4b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\b378e45b8049b95113311ca312782b4b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\bff47602af26d1c584e16f72cc453e15\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\bff47602af26d1c584e16f72cc453e15\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\146efcb5b377b13e64ca3f444d5d2a81\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\146efcb5b377b13e64ca3f444d5d2a81\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\aedf517173d49cec7e0d7712d93e1f67\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rushi\.gradle\caches\transforms-2\files-2.1\aedf517173d49cec7e0d7712d93e1f67\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rushi\Desktop\Coding\UdacityCourses\Flutter\Unit_Converter_App\android\app\src\debug\AndroidManifest.xml
