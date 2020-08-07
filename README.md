@@ -4,7 +4,7 @@ A unit converter app that converts units in 8 categories (Length, Area, Volume, 
 Currency conversions are entirely mock data and come from `flutter.udacity.com/currency`.
 
 ![]()  |  ![]()
-![alt-text-1](/unit-converter-app-1.jpg "1") ![alt-text-2](/unit-converter-app-2.jpg "2")
+![1](/unit-converter-app-1.jpg) ![2](/unit-converter-app-2.jpg)
 ## Getting Started
 
 For help getting started with Flutter, view our online
