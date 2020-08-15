@@ -5,16 +5,4 @@ Currency conversions are entirely mock data and come from `flutter.udacity.com/c
 
 ![1](/unit-converter-1.jpg)
 ![2](/unit-converter-2.jpg)
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
-
-## Credits
-
-### Font
-[Raleway](https://fonts.google.com/specimen/Raleway)
-
-### Images
-Designed within Google
 
